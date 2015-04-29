@@ -1,4 +1,4 @@
-define(['react',"utilities/ModuleManager"],
+define(["react","utilities/ModuleManager"],
     function(React, moduleManager) {
         var HelloWorld = React.createClass({
             componentDidMount: function() {
